@@ -1,0 +1,30 @@
+name: probe
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: probe
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - name: Probe endpoints
+        id: p
+        run: bash scripts/probe.sh
+      - name: Record result (data branch)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/record.sh
+      - name: Open / update / close outage issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/alert.sh
