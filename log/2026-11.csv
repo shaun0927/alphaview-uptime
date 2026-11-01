@@ -1,0 +1,5 @@
+ts_utc,target,http_code,seconds,state,attempts
+2026-11-01T00:22:59Z,home,200,1.498422,up,1
+2026-11-01T00:22:59Z,api_health,200,0.853670,up,1
+2026-11-01T00:22:59Z,ticker,200,0.478575,up,1
+2026-11-01T00:22:59Z,news,301,0.731007,up,1
