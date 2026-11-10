@@ -5343,3 +5343,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-10T19:55:11Z,api_health,530,0.066284,down,3
 2026-11-10T19:55:11Z,ticker,530,0.058158,down,3
 2026-11-10T19:55:11Z,news,530,0.078365,down,3
+2026-11-10T20:09:38Z,home,530,0.225933,down,3
+2026-11-10T20:09:38Z,api_health,530,0.177611,down,3
+2026-11-10T20:09:38Z,ticker,530,0.221303,down,3
+2026-11-10T20:09:38Z,news,530,0.191289,down,3
