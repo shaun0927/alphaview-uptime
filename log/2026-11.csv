@@ -5179,3 +5179,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-10T13:12:35Z,api_health,502,0.250354,down,3
 2026-11-10T13:12:35Z,ticker,502,0.242681,down,3
 2026-11-10T13:12:35Z,news,502,0.214811,down,3
+2026-11-10T13:22:16Z,home,502,0.289576,down,3
+2026-11-10T13:22:16Z,api_health,502,0.678230,down,3
+2026-11-10T13:22:16Z,ticker,502,0.282784,down,3
+2026-11-10T13:22:16Z,news,502,0.302199,down,3
