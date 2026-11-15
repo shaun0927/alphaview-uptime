@@ -7819,3 +7819,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-15T22:46:27Z,api_health,530,0.093070,down,3
 2026-11-15T22:46:27Z,ticker,530,0.089500,down,3
 2026-11-15T22:46:27Z,news,530,0.087463,down,3
+2026-11-15T22:54:47Z,home,530,0.043325,down,3
+2026-11-15T22:54:47Z,api_health,530,0.039487,down,3
+2026-11-15T22:54:47Z,ticker,530,0.045882,down,3
+2026-11-15T22:54:47Z,news,530,0.040722,down,3
