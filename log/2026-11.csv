@@ -8103,3 +8103,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T16:54:54Z,api_health,530,0.113422,down,3
 2026-11-16T16:54:54Z,ticker,530,0.129865,down,3
 2026-11-16T16:54:54Z,news,530,0.127570,down,3
+2026-11-16T17:08:06Z,home,530,0.422113,down,3
+2026-11-16T17:08:06Z,api_health,530,0.337380,down,3
+2026-11-16T17:08:06Z,ticker,530,0.433545,down,3
+2026-11-16T17:08:06Z,news,530,0.393861,down,3
