@@ -8043,3 +8043,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T12:52:15Z,api_health,530,0.079072,down,3
 2026-11-16T12:52:15Z,ticker,530,0.080908,down,3
 2026-11-16T12:52:15Z,news,530,0.086102,down,3
+2026-11-16T13:07:22Z,home,530,0.085552,down,3
+2026-11-16T13:07:22Z,api_health,530,0.103377,down,3
+2026-11-16T13:07:22Z,ticker,530,0.070815,down,3
+2026-11-16T13:07:22Z,news,530,0.068652,down,3
