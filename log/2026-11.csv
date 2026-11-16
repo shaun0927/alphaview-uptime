@@ -8063,3 +8063,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T14:51:07Z,api_health,530,0.066236,down,3
 2026-11-16T14:51:07Z,ticker,530,0.102298,down,3
 2026-11-16T14:51:07Z,news,530,0.106834,down,3
+2026-11-16T14:59:58Z,home,530,0.045098,down,3
+2026-11-16T14:59:58Z,api_health,530,0.055691,down,3
+2026-11-16T14:59:58Z,ticker,530,0.026210,down,3
+2026-11-16T14:59:58Z,news,530,0.051274,down,3
