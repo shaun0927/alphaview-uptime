@@ -8143,3 +8143,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T18:45:51Z,api_health,530,0.280772,down,3
 2026-11-16T18:45:51Z,ticker,530,0.075024,down,3
 2026-11-16T18:45:51Z,news,530,0.124491,down,3
+2026-11-16T18:54:17Z,home,530,0.280433,down,3
+2026-11-16T18:54:17Z,api_health,530,0.242345,down,3
+2026-11-16T18:54:17Z,ticker,530,0.231466,down,3
+2026-11-16T18:54:17Z,news,530,0.076948,down,3
