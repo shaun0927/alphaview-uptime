@@ -7939,3 +7939,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T05:28:03Z,api_health,530,0.036841,down,3
 2026-11-16T05:28:03Z,ticker,530,0.035107,down,3
 2026-11-16T05:28:03Z,news,530,0.055281,down,3
+2026-11-16T05:38:26Z,home,530,0.068044,down,3
+2026-11-16T05:38:26Z,api_health,530,0.061020,down,3
+2026-11-16T05:38:26Z,ticker,530,0.048568,down,3
+2026-11-16T05:38:26Z,news,530,0.067935,down,3
