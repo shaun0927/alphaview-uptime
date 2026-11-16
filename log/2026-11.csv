@@ -8079,3 +8079,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T15:50:45Z,api_health,530,0.351960,down,3
 2026-11-16T15:50:45Z,ticker,530,0.143425,down,3
 2026-11-16T15:50:45Z,news,530,0.454194,down,3
+2026-11-16T15:59:02Z,home,530,0.123352,down,3
+2026-11-16T15:59:02Z,api_health,530,0.094656,down,3
+2026-11-16T15:59:02Z,ticker,530,0.106601,down,3
+2026-11-16T15:59:02Z,news,530,0.151317,down,3
