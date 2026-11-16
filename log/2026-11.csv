@@ -8203,3 +8203,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T21:13:33Z,api_health,530,0.070794,down,3
 2026-11-16T21:13:33Z,ticker,530,0.371034,down,3
 2026-11-16T21:13:33Z,news,530,0.103124,down,3
+2026-11-16T21:21:55Z,home,530,0.047556,down,3
+2026-11-16T21:21:55Z,api_health,530,0.045524,down,3
+2026-11-16T21:21:55Z,ticker,530,0.038653,down,3
+2026-11-16T21:21:55Z,news,530,0.052996,down,3
