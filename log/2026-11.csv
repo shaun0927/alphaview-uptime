@@ -7959,3 +7959,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T06:59:02Z,api_health,530,0.031348,down,3
 2026-11-16T06:59:02Z,ticker,530,0.027305,down,3
 2026-11-16T06:59:02Z,news,530,0.038207,down,3
+2026-11-16T07:22:45Z,home,530,0.082905,down,3
+2026-11-16T07:22:45Z,api_health,530,0.068664,down,3
+2026-11-16T07:22:45Z,ticker,530,0.057174,down,3
+2026-11-16T07:22:45Z,news,530,0.060108,down,3
