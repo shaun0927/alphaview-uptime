@@ -8223,3 +8223,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T21:57:02Z,api_health,530,0.222903,down,3
 2026-11-16T21:57:02Z,ticker,530,0.201761,down,3
 2026-11-16T21:57:02Z,news,530,0.197969,down,3
+2026-11-16T22:11:43Z,home,530,0.045057,down,3
+2026-11-16T22:11:43Z,api_health,530,0.037939,down,3
+2026-11-16T22:11:43Z,ticker,530,0.030426,down,3
+2026-11-16T22:11:43Z,news,530,0.057208,down,3
