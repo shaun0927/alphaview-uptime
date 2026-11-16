@@ -8123,3 +8123,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-16T17:47:12Z,api_health,530,0.501945,down,3
 2026-11-16T17:47:12Z,ticker,530,0.515137,down,3
 2026-11-16T17:47:12Z,news,530,0.520882,down,3
+2026-11-16T17:55:53Z,home,530,0.066292,down,3
+2026-11-16T17:55:53Z,api_health,530,0.329574,down,3
+2026-11-16T17:55:53Z,ticker,530,0.270028,down,3
+2026-11-16T17:55:53Z,news,530,0.322057,down,3
