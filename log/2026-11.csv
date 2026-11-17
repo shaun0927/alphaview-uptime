@@ -8699,3 +8699,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-17T19:25:38Z,api_health,530,0.228013,down,3
 2026-11-17T19:25:38Z,ticker,530,0.128171,down,3
 2026-11-17T19:25:38Z,news,530,0.100992,down,3
+2026-11-17T19:35:47Z,home,530,0.080602,down,3
+2026-11-17T19:35:47Z,api_health,530,1.061686,down,3
+2026-11-17T19:35:47Z,ticker,530,1.319871,down,3
+2026-11-17T19:35:47Z,news,530,1.142042,down,3
