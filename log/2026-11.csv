@@ -8467,3 +8467,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-17T09:26:45Z,api_health,530,0.079303,down,3
 2026-11-17T09:26:45Z,ticker,530,0.081511,down,3
 2026-11-17T09:26:45Z,news,530,0.086645,down,3
+2026-11-17T09:37:50Z,home,530,0.054501,down,3
+2026-11-17T09:37:50Z,api_health,530,0.057750,down,3
+2026-11-17T09:37:50Z,ticker,530,0.036300,down,3
+2026-11-17T09:37:50Z,news,530,0.058525,down,3
