@@ -8719,3 +8719,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-17T20:16:24Z,api_health,530,0.155256,down,3
 2026-11-17T20:16:24Z,ticker,530,0.551519,down,3
 2026-11-17T20:16:24Z,news,530,0.488268,down,3
+2026-11-17T20:25:37Z,home,530,0.514580,down,3
+2026-11-17T20:25:37Z,api_health,530,0.564805,down,3
+2026-11-17T20:25:37Z,ticker,530,0.545517,down,3
+2026-11-17T20:25:37Z,news,530,0.551274,down,3
