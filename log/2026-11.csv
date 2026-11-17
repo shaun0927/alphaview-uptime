@@ -8479,3 +8479,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-17T09:55:47Z,api_health,530,0.041910,down,3
 2026-11-17T09:55:47Z,ticker,530,0.032660,down,3
 2026-11-17T09:55:47Z,news,530,0.021515,down,3
+2026-11-17T10:12:12Z,home,530,0.034687,down,3
+2026-11-17T10:12:12Z,api_health,530,0.038542,down,3
+2026-11-17T10:12:12Z,ticker,530,0.033779,down,3
+2026-11-17T10:12:12Z,news,530,0.033688,down,3
