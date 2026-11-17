@@ -8443,3 +8443,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-17T08:23:55Z,api_health,530,0.043777,down,3
 2026-11-17T08:23:55Z,ticker,530,0.069587,down,3
 2026-11-17T08:23:55Z,news,530,0.045113,down,3
+2026-11-17T08:33:40Z,home,530,0.066534,down,3
+2026-11-17T08:33:40Z,api_health,530,0.058462,down,3
+2026-11-17T08:33:40Z,ticker,530,0.071321,down,3
+2026-11-17T08:33:40Z,news,530,0.067783,down,3
