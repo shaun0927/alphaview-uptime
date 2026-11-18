@@ -9283,3 +9283,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-18T21:06:38Z,api_health,530,0.037827,down,3
 2026-11-18T21:06:38Z,ticker,530,0.052049,down,3
 2026-11-18T21:06:38Z,news,530,0.173139,down,3
+2026-11-18T21:15:20Z,home,530,0.339410,down,3
+2026-11-18T21:15:20Z,api_health,530,0.336175,down,3
+2026-11-18T21:15:20Z,ticker,530,0.394317,down,3
+2026-11-18T21:15:20Z,news,530,0.344131,down,3
