@@ -9043,3 +9043,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-18T11:00:10Z,api_health,530,0.061367,down,3
 2026-11-18T11:00:10Z,ticker,530,0.044523,down,3
 2026-11-18T11:00:10Z,news,530,0.042361,down,3
+2026-11-18T11:13:40Z,home,530,0.064461,down,3
+2026-11-18T11:13:40Z,api_health,530,0.067594,down,3
+2026-11-18T11:13:40Z,ticker,530,0.067139,down,3
+2026-11-18T11:13:40Z,news,530,0.069590,down,3
