@@ -9023,3 +9023,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-18T10:14:06Z,api_health,530,0.057816,down,3
 2026-11-18T10:14:06Z,ticker,530,0.040117,down,3
 2026-11-18T10:14:06Z,news,530,0.067384,down,3
+2026-11-18T10:23:56Z,home,530,0.050888,down,3
+2026-11-18T10:23:56Z,api_health,530,0.040260,down,3
+2026-11-18T10:23:56Z,ticker,530,0.037760,down,3
+2026-11-18T10:23:56Z,news,530,0.046103,down,3
