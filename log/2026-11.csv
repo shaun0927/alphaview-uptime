@@ -9783,3 +9783,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-19T19:27:15Z,api_health,530,0.140023,down,3
 2026-11-19T19:27:15Z,ticker,530,0.157062,down,3
 2026-11-19T19:27:15Z,news,530,0.123617,down,3
+2026-11-19T19:36:48Z,home,530,0.099459,down,3
+2026-11-19T19:36:48Z,api_health,530,0.087964,down,3
+2026-11-19T19:36:48Z,ticker,530,0.121652,down,3
+2026-11-19T19:36:48Z,news,530,0.113492,down,3
