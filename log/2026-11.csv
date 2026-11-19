@@ -9763,3 +9763,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-19T18:38:23Z,api_health,530,0.114297,down,3
 2026-11-19T18:38:23Z,ticker,530,0.137407,down,3
 2026-11-19T18:38:23Z,news,530,0.352316,down,3
+2026-11-19T18:47:28Z,home,530,0.287040,down,3
+2026-11-19T18:47:28Z,api_health,530,0.294420,down,3
+2026-11-19T18:47:28Z,ticker,530,0.149312,down,3
+2026-11-19T18:47:28Z,news,530,0.121121,down,3
