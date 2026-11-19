@@ -9699,3 +9699,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-19T15:51:45Z,api_health,530,0.065628,down,3
 2026-11-19T15:51:45Z,ticker,530,0.067027,down,3
 2026-11-19T15:51:45Z,news,530,0.090071,down,3
+2026-11-19T16:00:22Z,home,530,0.074431,down,3
+2026-11-19T16:00:22Z,api_health,530,0.064383,down,3
+2026-11-19T16:00:22Z,ticker,530,0.076661,down,3
+2026-11-19T16:00:22Z,news,530,0.104218,down,3
