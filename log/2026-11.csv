@@ -10143,3 +10143,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-20T11:31:13Z,api_health,530,0.029709,down,3
 2026-11-20T11:31:13Z,ticker,530,0.041995,down,3
 2026-11-20T11:31:13Z,news,530,0.041244,down,3
+2026-11-20T11:39:55Z,home,530,0.054905,down,3
+2026-11-20T11:39:55Z,api_health,530,0.051550,down,3
+2026-11-20T11:39:55Z,ticker,530,0.053534,down,3
+2026-11-20T11:39:55Z,news,530,0.054873,down,3
