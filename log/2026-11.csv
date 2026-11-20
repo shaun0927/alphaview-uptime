@@ -9979,3 +9979,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-20T04:07:34Z,api_health,530,0.070142,down,3
 2026-11-20T04:07:34Z,ticker,530,0.100177,down,3
 2026-11-20T04:07:34Z,news,530,0.062007,down,3
+2026-11-20T04:19:47Z,home,530,0.079422,down,3
+2026-11-20T04:19:47Z,api_health,530,0.081659,down,3
+2026-11-20T04:19:47Z,ticker,530,0.088110,down,3
+2026-11-20T04:19:47Z,news,530,0.073684,down,3
