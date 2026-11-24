@@ -12099,3 +12099,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-24T00:31:23Z,api_health,530,0.048999,down,3
 2026-11-24T00:31:23Z,ticker,530,0.066011,down,3
 2026-11-24T00:31:23Z,news,530,0.052789,down,3
+2026-11-24T00:47:42Z,home,530,0.173433,down,3
+2026-11-24T00:47:42Z,api_health,530,0.123425,down,3
+2026-11-24T00:47:42Z,ticker,530,0.139217,down,3
+2026-11-24T00:47:42Z,news,530,0.128938,down,3
