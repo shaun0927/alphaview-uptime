@@ -12303,3 +12303,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-24T10:08:35Z,api_health,530,0.053539,down,3
 2026-11-24T10:08:35Z,ticker,530,0.047856,down,3
 2026-11-24T10:08:35Z,news,530,0.048982,down,3
+2026-11-24T10:17:48Z,home,530,0.035707,down,3
+2026-11-24T10:17:48Z,api_health,530,0.032082,down,3
+2026-11-24T10:17:48Z,ticker,530,0.035935,down,3
+2026-11-24T10:17:48Z,news,530,0.020541,down,3
