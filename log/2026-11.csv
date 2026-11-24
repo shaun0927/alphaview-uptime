@@ -12543,3 +12543,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-24T20:29:49Z,api_health,530,0.084092,down,3
 2026-11-24T20:29:49Z,ticker,530,0.102633,down,3
 2026-11-24T20:29:49Z,news,530,0.074896,down,3
+2026-11-24T20:38:54Z,home,530,0.127980,down,3
+2026-11-24T20:38:54Z,api_health,530,0.160709,down,3
+2026-11-24T20:38:54Z,ticker,530,0.144494,down,3
+2026-11-24T20:38:54Z,news,530,0.048597,down,3
