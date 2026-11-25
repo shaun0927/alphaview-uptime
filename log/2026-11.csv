@@ -13031,3 +13031,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-25T18:55:44Z,api_health,530,0.059909,down,3
 2026-11-25T18:55:44Z,ticker,530,0.048954,down,3
 2026-11-25T18:55:44Z,news,530,0.089923,down,3
+2026-11-25T19:08:53Z,home,530,0.087552,down,3
+2026-11-25T19:08:53Z,api_health,530,0.067138,down,3
+2026-11-25T19:08:53Z,ticker,530,0.073419,down,3
+2026-11-25T19:08:53Z,news,530,0.081084,down,3
