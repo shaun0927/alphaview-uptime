@@ -14203,3 +14203,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-27T23:09:48Z,api_health,530,0.025016,down,3
 2026-11-27T23:09:48Z,ticker,530,0.049271,down,3
 2026-11-27T23:09:48Z,news,530,0.030752,down,3
+2026-11-27T23:18:46Z,home,530,0.071281,down,3
+2026-11-27T23:18:46Z,api_health,530,0.065052,down,3
+2026-11-27T23:18:46Z,ticker,530,0.069009,down,3
+2026-11-27T23:18:46Z,news,530,0.060572,down,3
