@@ -14119,3 +14119,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-27T19:43:30Z,api_health,530,0.032386,down,3
 2026-11-27T19:43:30Z,ticker,530,0.068337,down,3
 2026-11-27T19:43:30Z,news,530,0.054282,down,3
+2026-11-27T19:51:58Z,home,530,0.055874,down,3
+2026-11-27T19:51:58Z,api_health,530,0.047196,down,3
+2026-11-27T19:51:58Z,ticker,530,0.050922,down,3
+2026-11-27T19:51:58Z,news,530,0.047569,down,3
