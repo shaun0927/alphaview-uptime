@@ -13943,3 +13943,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-27T12:19:53Z,api_health,530,0.038784,down,3
 2026-11-27T12:19:53Z,ticker,530,0.038121,down,3
 2026-11-27T12:19:53Z,news,530,0.032772,down,3
+2026-11-27T12:34:17Z,home,530,0.045531,down,3
+2026-11-27T12:34:17Z,api_health,530,0.044980,down,3
+2026-11-27T12:34:17Z,ticker,530,0.057409,down,3
+2026-11-27T12:34:17Z,news,530,0.041563,down,3
