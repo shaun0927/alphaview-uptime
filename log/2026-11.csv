@@ -14099,3 +14099,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-27T18:55:25Z,api_health,530,0.037194,down,3
 2026-11-27T18:55:25Z,ticker,530,0.057850,down,3
 2026-11-27T18:55:25Z,news,530,0.051741,down,3
+2026-11-27T19:07:47Z,home,530,0.049110,down,3
+2026-11-27T19:07:47Z,api_health,530,0.039589,down,3
+2026-11-27T19:07:47Z,ticker,530,0.052012,down,3
+2026-11-27T19:07:47Z,news,530,0.043110,down,3
