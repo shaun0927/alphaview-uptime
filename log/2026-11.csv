@@ -13763,3 +13763,7 @@ ts_utc,target,http_code,seconds,state,attempts
 2026-11-27T03:54:51Z,api_health,530,0.028913,down,3
 2026-11-27T03:54:51Z,ticker,530,0.042822,down,3
 2026-11-27T03:54:51Z,news,530,0.048680,down,3
+2026-11-27T04:10:09Z,home,530,0.046486,down,3
+2026-11-27T04:10:09Z,api_health,530,0.044747,down,3
+2026-11-27T04:10:09Z,ticker,530,0.051826,down,3
+2026-11-27T04:10:09Z,news,530,0.034377,down,3
